@@ -1,0 +1,1 @@
+export default function Colour(rating) { return rating > 4.0 ? "green" : "red"; }
